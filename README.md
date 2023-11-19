@@ -51,14 +51,14 @@ Alat ini mengimplementasikan Fragile Watermarking menggunakan metode Least Signi
 - Kunci enkripsi sangat penting untuk penyisipan dan ekstraksi, jadi simpan dengan aman.
 
 ### Tampilan Program
-1. Menu Utama
+1. **Menu Utama**
 
    ![image](https://github.com/raldyachmad/Fragile-Watermarking/assets/87338157/7d5321ee-2f0c-44a0-87b1-7f1a89b1a632)
 
-2. Menu Insert
+2. **Menu Insert**
 
    ![image](https://github.com/raldyachmad/Fragile-Watermarking/assets/87338157/46b68fb5-951d-4d2d-94be-3c96afbb79e0)
 
-3. Menu Extract
+3. **Menu Extract**
 
    ![image](https://github.com/raldyachmad/Fragile-Watermarking/assets/87338157/4bea3a4f-95fa-4d5b-9cf3-6f7df7c52fce)
