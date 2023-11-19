@@ -52,4 +52,5 @@ Alat ini mengimplementasikan Watermarking Rapuh menggunakan metode Least Signifi
 
 ### Tampilan Program
 1. Menu Utama
+
 ![image](https://github.com/raldyachmad/Fragile-Watermarking/assets/87338157/7d5321ee-2f0c-44a0-87b1-7f1a89b1a632)
