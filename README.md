@@ -1,6 +1,6 @@
 ## Fragile-Watermarking
 
-Alat ini mengimplementasikan Watermarking Rapuh menggunakan metode Least Significant Bit (LSB). Watermarking Rapuh adalah teknik yang memasukkan watermark yang sensitif ke dalam gambar, memungkinkan ekstraksi dan verifikasi integritas gambar kemudian.
+Alat ini mengimplementasikan Fragile Watermarking menggunakan metode Least Significant Bit (LSB). Fragile Watermarking adalah teknik yang memasukkan watermark yang sensitif ke dalam gambar, memungkinkan ekstraksi dan verifikasi integritas gambar kemudian.
 
 ### Penggunaan
 
@@ -21,7 +21,7 @@ Alat ini mengimplementasikan Watermarking Rapuh menggunakan metode Least Signifi
    - `<path_gambar_dengan_watermark>`: Path ke gambar dengan watermark.
    - `<path_output_watermark>`: Path untuk menyimpan watermark yang diekstrak.
 
-### Fitur Watermarking Rapuh
+### Fitur Fragile Watermarking
 
 - **Enkripsi:** Alat ini menggunakan algoritma enkripsi sederhana untuk meningkatkan keamanan watermark.
 - **Pengacakan:** Pengacakan piksel digunakan untuk meningkatkan ketangguhan dan keacak-acakan penyisipan watermark.
