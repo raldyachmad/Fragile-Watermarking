@@ -7,7 +7,7 @@ Alat ini mengimplementasikan Watermarking Rapuh menggunakan metode Least Signifi
 1. **Menyisipkan Fragile-Watermarking:**
    Untuk menyematkan fragile watermarking ke dalam gambar, jalankan perintah berikut di terminal:
    ```bash
-   python fragile_watermarking.py <path_gambar_asli> <path_gambar_watermark> <path_output>
+   python watermark-fragile.py <path_gambar_asli> <path_gambar_watermark> <path_output>
    ```
    - `<path_gambar_asli>`: Path ke gambar asli.
    - `<path_gambar_watermark>`: Path ke gambar watermark.
@@ -16,7 +16,7 @@ Alat ini mengimplementasikan Watermarking Rapuh menggunakan metode Least Signifi
 2. **Mengekstrak Fragile-Watermarking:**
    Untuk mengekstrak fragile watermarking dari gambar, jalankan perintah berikut:
    ```bash
-   python fragile_watermarking.py <path_gambar_dengan_watermark> <path_output_watermark>
+   python watermark-fragile.py <path_gambar_dengan_watermark> <path_output_watermark>
    ```
    - `<path_gambar_dengan_watermark>`: Path ke gambar dengan watermark.
    - `<path_output_watermark>`: Path untuk menyimpan watermark yang diekstrak.
@@ -37,12 +37,12 @@ Alat ini mengimplementasikan Watermarking Rapuh menggunakan metode Least Signifi
 
 1. **Menyisipkan fragile watermarking:**
    ```bash
-   python fragile_watermarking.py gambar_asli.png watermark.png gambar_dengan_watermark.png
+   python watermark-fragile.py gambar_asli.png watermark.png gambar_dengan_watermark.png
    ```
    
 2. **Mengekstrak fragile watermarking:**
    ```bash
-   python fragile_watermarking.py gambar_dengan_watermark.png watermark_diekstrak.png
+   python watermark-fragile.py gambar_dengan_watermark.png watermark_diekstrak.png
    ```
 
 ### Catatan
